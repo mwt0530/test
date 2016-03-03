@@ -1,9 +1,9 @@
 ###some special markdown methods
-##目录
+###目录
 
-*[注释](#note)
-*[链接](#links)
-*[图片](#image)
+* [注释](#note)
+* [链接](#links)
+* [图片](#images)
 
 
 #####<a name="note"/>注释部分
