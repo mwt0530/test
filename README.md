@@ -31,9 +31,9 @@ This is [ google ] [2]
 [2]:https://www.google.com "谷歌"
 
 >格式：
->[foo]: http://example.com/  "Optional Title Here"
->[foo]: http://example.com/  'Optional Title Here'
->[foo]: http://example.com/  (Optional Title Here)
+>* [foo]: http://example.com/  "Optional Title Here"
+>* [foo]: http://example.com/  'Optional Title Here'
+>* [foo]: http://example.com/  (Optional Title Here)
 
 
 #####<a name="images"\>图片部分
