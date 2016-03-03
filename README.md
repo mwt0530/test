@@ -16,20 +16,19 @@
 > 
 >     return shell_exec("echo $input | $markdown_script");
 
----
+****
 
 This is [an example](http://example.com/ "Title") inline link.
 [This link](http://example.net/) has no title attribute.
 >title部分是鼠标放置上显示的内容
 >链接部分也可以是本地内容
 
----
 <a name="links"\>
 ####链接部分
 This is [ 百度 ] [1] 
 This is [ google ] [2] 
-[1]: www.baidu.com "baidu"
-[2]: www.google.com "谷歌"
+[1]:http://www.baidu.com "baidu"
+[2]:https://www.google.com "谷歌"
 
 >格式：
 >[foo]: http://example.com/  "Optional Title Here"
