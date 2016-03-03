@@ -25,10 +25,18 @@ This is [an example](http://example.com/ "Title") inline link.
 
 <a name="links"\>
 ####链接部分
-This is [ 百度 ] [1] 
-This is [ google ] [2] 
+- This is [ 百度 ] [1] 
+- This is [ google ] [2] 
 [1]:http://www.baidu.com "baidu"
 [2]:https://www.google.com "谷歌"
+
+this is a test for links
+- [google][]
+- [baidu][]
+
+[google]: https://www.google.com "goooooooogle"
+[baidu]: http://www.baidu.com "baiduuuuuuuu"
+
 
 >格式：
 >* [foo]: http://example.com/  "Optional Title Here"
